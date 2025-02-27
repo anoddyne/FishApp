@@ -1,14 +1,6 @@
 <h1>
-  <table>
-    <tr>
-      <td>
-        <img src="./app/src/main/res/mipmap-hdpi/ic_launcher.png" width="72" height="72"  alt="Логотип"/>
-      </td>
-      <td>
-        Fish Aquarium App
-      </td>
-    </tr>
-  </table>
+  <img src="./app/src/main/res/mipmap-hdpi/ic_launcher.png" width="72" height="72" alt="Логотип"/>
+  Fish Aquarium App
 </h1>
 
 Учебное приложение для изучения основных компонентов UI/UX в Android-разработке.
@@ -33,4 +25,4 @@
 - **Picasso** — для загрузки и кэширования изображений из сети.
 - **RecyclerView** — в связке с ViewPager2 для эффективного отображения данных.
 
-![Example](app_example.gif)
+<img src="app_example.gif" alt="Example" width="45%" height="45%" />
