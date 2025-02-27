@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fish Aquarium</string>
+    <string name="imageDescription">Fish description</string>
+    <string name="fish_name">Fish name</string>
+
+    <string name="tab_name">Fish name</string>
+</resources>
